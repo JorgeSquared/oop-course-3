@@ -51,7 +51,7 @@ class Container
     }
 
     /**
-     * @return AbstractStorage
+     * @return ShipStorageInterface
      */
     public function getShipStorage()
     {
